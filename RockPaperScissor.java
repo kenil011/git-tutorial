@@ -5,7 +5,7 @@
  * 4. Declare the winner or looser
  */
 //made changes to check git integrations
-
+//version3
 import java.util.Random;
 import java.util.Scanner;
 
