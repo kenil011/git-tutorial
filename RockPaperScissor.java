@@ -1,11 +1,10 @@
 //Creating a Rock Paper Scissor game
-/*TODO  1. import random,Scanner class(ran for random and sc for scanner)
+/*TODO- 1. import random,Scanner class(ran for random and sc for scanner)
  * 2. take input from User
  * 3. Print the result of Computer in R,P,s forms 
  * 4. Declare the winner or looser
  */
-//made changes to check git integrations
-//version3
+
 import java.util.Random;
 import java.util.Scanner;
 
