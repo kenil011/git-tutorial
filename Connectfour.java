@@ -1,3 +1,5 @@
+//very fun game and bsic code for noobie
+//git track changes not files
 import java.util.Scanner;
 
 public class Connectfour {
@@ -51,7 +53,7 @@ public class Connectfour {
                 break;
             }
         }
-        
+        read.close();
 
     }
 
@@ -72,6 +74,7 @@ public class Connectfour {
                 break;
             }
         }
+        read.close();
     
     }
 
