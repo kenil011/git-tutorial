@@ -65,3 +65,6 @@ public static String RPS(int b) {
 	return(value);
  }
 }
+
+//commit after adding gitignore file
+//git overwrites
