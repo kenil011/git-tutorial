@@ -7,7 +7,7 @@
 
 import java.util.Random;
 import java.util.Scanner;
-
+//make some changes
 public class RockPaperScissor {
 
 	public static void main(String[] args) {

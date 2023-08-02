@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//make some changes
 public class Connectfour {
 
     // we need to create bsic visualization pattern
